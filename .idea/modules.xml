@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mindmate.iml" filepath="$PROJECT_DIR$/.idea/mindmate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mindmate/mindmate.iml" filepath="$PROJECT_DIR$/mindmate/mindmate.iml" />
     </modules>
   </component>
 </project>
